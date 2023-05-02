@@ -82,6 +82,8 @@ module.exports = {
   // Default: null
   tasksManagerBaseUrl: 'https://app-us2.wrike.com/open.htm?id=',
 
+  gitMergeStrategy: 'merge',
+
 
   // [Optional] Data for email notification.
   // Default: null
